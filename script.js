@@ -1,4 +1,3 @@
-// Sample demo data
 let moisture = 35;
 
 document.getElementById("moisture").innerText = moisture + "%";
